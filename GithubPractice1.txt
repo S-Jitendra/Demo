@@ -1,3 +1,6 @@
 This file is created for practice.
 This is first change after push.
 This is first change from server.
+
+This is second change.
+This is to amend second change.
