@@ -1,4 +1,5 @@
 Hi,
 This is GitDemo.
-Day1
+
+Day1 installation and configuration
 Day2 push and pull
